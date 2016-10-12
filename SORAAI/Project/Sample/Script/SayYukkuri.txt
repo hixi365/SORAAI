@@ -1,0 +1,30 @@
+
+SAY_G
+{
+	SET_YUKKURI_G
+	{
+	}
+	_SayYukkuriEasy
+	{
+		~0
+		~1
+		~2
+		~3
+		~4
+		~5
+	}
+	_Go
+	{
+	}
+}
+
+SET_YUKKURI_G
+{
+	_SetYukkuri
+	{
+		-1
+		-1
+		-1
+		1
+	}
+}

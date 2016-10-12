@@ -1,0 +1,106 @@
+
+========== ========== ========== ========== ==========
+                空藍家のおこた 更新履歴
+========== ========== ========== ========== ==========
+
+-0.1-		(2014/11/06)
+
+	内部関数
+		_Go,			// タスク実行
+		_SayMostEasy,	// セリフの簡易表示
+		_LoadImg,		// 画像読み込み
+		_DrawImg,		// 画像の表示
+		_SayNMostEasy,	// ナレーションの簡易表示
+		_ClearLayer,	// レイヤの初期化
+		_Wait,			// ウエイト
+
+-0.1.1-		(2014/11/07)
+
+	不具合の修正
+	スキップ機能の強化
+
+	内部関数
+		_Go,			// タスク実行			
+		_SayMostEasy,	// セリフの簡易表示		
+		_LoadImg,		// 画像読み込み			
+		_DrawImg,		// 画像の表示			
+		_SayNMostEasy,	// ナレーションの簡易表示	
+		_ClearLayer,	// レイヤの初期化		
+		_Wait,			// ウエイト				
+		_Fade,			// フェード				
+
+-0.1.2-		(2014/12/12)
+	
+	タイトル部分の変更の追加
+
+	内部関数
+		_Go,			// タスク実行			
+		_SayMostEasy,	// セリフの簡易表示		
+		_LoadImg,		// 画像読み込み				
+		_DrawImg,		// 画像の表示				
+		_SayNMostEasy,	// ナレーションの簡易表示		
+		_ClearLayer,	// レイヤの初期化			
+		_Wait,			// ウエイト					
+		_Fade,			// フェード					
+		_SetTitle,		// タイトルの変更
+		
+-0.2-		(2015/09/05)
+	
+	棒読みちゃんに対応
+	開発環境の以降 (v100 -> v120)
+
+	内部関数
+		_Go,			// タスク実行				
+		_SayMostEasy,	// セリフの簡易表示			
+		_LoadImg,		// 画像読み込み				
+		_DrawImg,		// 画像の表示				
+		_SayNMostEasy,	// ナレーションの簡易表示	
+		_ClearLayer,	// レイヤの初期化			
+		_Wait,			// ウエイト					
+		_Fade,			// フェード					
+		_SetTitle,		// タイトルの変更			
+		_EnableYukkuri, // ゆっくりの有効化			
+		_SetYukkuri,	// 喋り方の設定				
+		_SayYukkuriEasy	// ゆっくりボイスの簡易表示
+
+-0.2.1-		(2015/10/29)
+	
+	不具合の修正
+	棒読みちゃんの連携の調整
+
+	内部関数
+		_Go,			// タスク実行				
+		_SayMostEasy,	// セリフの簡易表示			
+		_LoadImg,		// 画像読み込み				
+		_DrawImg,		// 画像の表示				
+		_SayNMostEasy,	// ナレーションの簡易表示	
+		_ClearLayer,	// レイヤの初期化			
+		_Wait,			// ウエイト					
+		_Fade,			// フェード					
+		_SetTitle,		// タイトルの変更			
+		_EnableYukkuri, // ゆっくりの有効化			
+		_SetYukkuri,	// 喋り方の設定				
+		_SayYukkuriEasy	// ゆっくりボイスの簡易表示
+
+-0.2.2-		(2015/10/29)
+	
+	棒読みちゃんの辞書連携機能の追加
+
+	内部関数
+		_Go,			// タスク実行				
+		_SayMostEasy,	// セリフの簡易表示			
+		_LoadImg,		// 画像読み込み				
+		_DrawImg,		// 画像の表示				
+		_SayNMostEasy,	// ナレーションの簡易表示	
+		_ClearLayer,	// レイヤの初期化			
+		_Wait,			// ウエイト					
+		_Fade,			// フェード					
+		_SetTitle,		// タイトルの変更			
+		_EnableYukkuri, // ゆっくりの有効化			
+		_SetYukkuri,	// 喋り方の設定				
+		_SayYukkuriEasy	// ゆっくりボイスの簡易表示
+		_SetYukkuriYomi,// ゆっくり辞書追加		
+		_DelYukkuriYomi,// ゆっくり辞書削除
+
+
+---------- ---------- ---------- ---------- ----------
